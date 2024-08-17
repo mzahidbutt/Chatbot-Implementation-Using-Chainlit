@@ -35,3 +35,9 @@ chainlit init
 ```bash
 chainlit run app.py
 ```
+
+```git add
+git add .
+git commit -m "updated"
+git push origin main
+```
